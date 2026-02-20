@@ -53,7 +53,7 @@ nav ul{
 }
 
 .imgbox video{
-    display : none;
+    display : flex;
 }
 
 
